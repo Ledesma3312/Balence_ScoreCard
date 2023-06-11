@@ -1,0 +1,5 @@
+HOLA!
+En este proyecto debemos considerar lo siguiente
+1.-Es un .XML Habilitado con macros
+2.-Es aun un prototipo en constante actualizaicon.
+3.- Puro AXOPUNK
